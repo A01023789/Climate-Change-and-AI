@@ -139,3 +139,4 @@ NDCData<-aggregate(
 #write model data
  dir.out<-"C:\\Users\\Usuario\\OneDrive\\Edmundo-ITESM\\3.Proyectos\\41. Climate Change and AI\\Data\\Model\\"
  write.csv(ModelData,paste0(dir.out,"ModelData.csv"),row.names=FALSE)
+ #este es mi ejemplo 1
